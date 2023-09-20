@@ -12,5 +12,5 @@ Multiple choice exam review application
 | **Definition of Done** | The feature has been tested and is error-free. The feature has been tested with end-users and they are satisfied with the result. The feature has been integrated into the product and is stable. |
 | **Owner**             | VO NGOC LUY                                                                 |
 | **Iteration**         | Sprint 2                                                                    |
-| **Estimate**          | 3 days                                                                      |
+| **Estimate**          | 8 days                                                                      |
 
