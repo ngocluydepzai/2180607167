@@ -11,6 +11,6 @@ Multiple choice exam review application
 | **Acceptance Criteria** | The user can directly manipulate on the interface to divide the level of test revision. The system provides visual feedback when the user changes the level of test revision. The user can save their changes. |
 | **Definition of Done** | The feature has been tested and is error-free. The feature has been tested with end-users and they are satisfied with the result. The feature has been integrated into the product and is stable. |
 | **Owner**             | VO NGOC LUY                                                                 |
-| **Iteration**         | Sprint 2                                                                    |
+| **Iteration**         | Unscheduled                                                                 |
 | **Estimate**          | 8 days                                                                      |
 
