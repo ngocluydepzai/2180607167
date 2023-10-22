@@ -8,9 +8,17 @@
 | **Value Statement**   | As a student, <br> I want to be able to divide my level of test revision , <br>so that I can easily track and adjust my learning process. |
 | **Acceptance Criteria** | Acceptance Criterion 1: <br>The user can directly manipulate on the interface to divide the level of test revision.<br><br> Acceptance Criterion 2: <br>The system provides visual feedback when the user changes the level of test revision. The user can save their changes. |
 | **Definition of Done** | Unit Tests Passed.<br>  Acceptance Criteria Met.<br>  Code Reviewed. <br> Functional Tests Passed. <br> Product Owner Accepts User Story |
-| **Owner**             | MR OWNER                                                                    |
+| **Owner**             |  NGOC LUY                                                                    |
 | **Iteration**         | Unscheduled                                                                 |
 | **Estimate**          | 8 points                                                                    |
+
+| Test Case ID | 01 |
+|--------------|----|
+| Test Objective | To verify the functionality of dividing the level of multiple-choice exam revision on the application |
+| Pre-Condition | User is logged into the application and has at least one exam to revise |
+| Step | 1. User selects an exam to revise <br> 2. User selects the "Divide Revision Level" function <br> 3. User adjusts the revision level <br> 4. User saves changes |
+| Expected Result | 1. The system displays an interface allowing the user to adjust the revision level <br> 2. When the user changes the revision level, the system provides visual feedback <br> 3. When the user saves changes, the system saves the new revision level and applies it to subsequent revision sessions |
+| Post-Condition | The new revision level is saved and applied to subsequent revision sessions |
 
 ![z4770076835953_134f30529600ad868df7b465bc6f016e](https://github.com/ngocluydepzai/2180607167/assets/144354758/86c4a17d-d071-458e-b143-b92f19e764a2)
 
